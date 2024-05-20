@@ -1,0 +1,40 @@
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
+<field name="nas_eps.msg_auth_code" showname="message authentication code: 0x19e1e023" size="4" pos="1" show="0x19e1e023" value="19e1e023" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: attach accept (0x42)" size="1" pos="7" show="66" value="42" /> 0
+<field name="" show="tracking area identity list - tai list" size="7" pos="10" value="064064f0001024"> 1
+<field name="nas_eps.esm.qci" showname="quality of service class identifier (qci): qci 8 (8)" size="1" pos="23" show="8" value="08" /> 0
+<field name="nas_eps.nas_msg_emm_type" showname="nas eps mobility management message type: detach request (0x45)" size="1" pos="7" show="69" value="45" /> 1
